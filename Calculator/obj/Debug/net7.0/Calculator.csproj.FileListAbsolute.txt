@@ -1,0 +1,15 @@
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\obj\Debug\net7.0\ref\Calculator.dll
+C:\Users\naing\source\repos\NaingBhoneHtet\Calculator\Calculator\obj\Debug\net7.0\Calculator.sourcelink.json
